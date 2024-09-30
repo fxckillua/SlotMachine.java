@@ -76,8 +76,8 @@ Este projeto é distribuído sob a licença MIT. Consulte o arquivo `LICENSE` pa
 
 Em caso de dúvidas ou sugestões, entre em contato:
 
-- **Nome:** [Seu Nome]
-- **E-mail:** [Seu E-mail]
+- **Nome:** Luiz Eduardo
+- **E-mail:** miziara.luizedu@gmail.com
 
 Sinta-se à vontade para contribuir e melhorar este projeto!
 
