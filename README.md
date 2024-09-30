@@ -1,5 +1,3 @@
-### README - Projeto Máquina de Caça-Níqueis com RMI e SSL/TLS
-
 # Máquina de Caça-Níqueis com RMI e Criptografia SSL/TLS 🎰🔒
 
 Este é um projeto de uma aplicação distribuída que simula uma Máquina de Caça-Níqueis. A comunicação entre o servidor e os clientes é feita através de Java RMI (Remote Method Invocation) e é protegida utilizando SSL/TLS para garantir a segurança das transações. Cada cliente conecta-se ao servidor central, realiza apostas e recebe os resultados de forma segura e independente.
